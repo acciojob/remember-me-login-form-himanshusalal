@@ -55,5 +55,6 @@ existingBtn.addEventListener("click", function(){
   if(savedUser){
     alert(`Logged in as ${savedUser}`);
   }
+});
 
 });
